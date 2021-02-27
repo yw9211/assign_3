@@ -1,0 +1,44 @@
+
+songlist {
+  background-image: radial-gradient(circle, #301934, #361b3a, #3d1d40, #441f46, #4b214c, #56255a, #612968, #6b2d77, #793794, #8442b4, #8b50d7, #8c5ffb);
+  width:100%;
+  padding-top: 2%;
+}
+
+song {
+  display: block;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.4);
+  width: 30%;
+  padding: 20px 2%;
+  margin: 20px auto;
+  border: 5px solid #000;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+title {
+  display: block;
+  text-shadow: 2px 2px #adadad;
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: fantasy;
+}
+
+artist {
+  display: block;
+  font-size: 14px;
+  color: #8E388E;
+  font-weight: bold;
+}
+
+genre {
+  display: block;
+}
+
+release {
+  display: block;
+}
+
